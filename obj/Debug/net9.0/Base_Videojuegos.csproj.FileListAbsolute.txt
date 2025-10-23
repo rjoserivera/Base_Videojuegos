@@ -1,0 +1,15 @@
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\bin\Debug\net9.0\Base_Videojuegos.exe
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\bin\Debug\net9.0\Base_Videojuegos.deps.json
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\bin\Debug\net9.0\Base_Videojuegos.runtimeconfig.json
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\bin\Debug\net9.0\Base_Videojuegos.dll
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\bin\Debug\net9.0\Base_Videojuegos.pdb
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.AssemblyInfoInputs.cache
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.AssemblyInfo.cs
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.csproj.CoreCompileInputs.cache
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.sourcelink.json
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.dll
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\refint\Base_Videojuegos.dll
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.pdb
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\Base_Videojuegos.genruntimeconfig.cache
+C:\Users\Imagine Breaker\Desktop\videojuegos\Base_Videojuegos\obj\Debug\net9.0\ref\Base_Videojuegos.dll
